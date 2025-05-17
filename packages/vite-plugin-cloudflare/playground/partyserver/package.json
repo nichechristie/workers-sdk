@@ -9,7 +9,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"partyserver": "^0.0.64",
+		"partyserver": "^0.0.67",
 		"partysocket": "^1.0.3",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
