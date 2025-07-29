@@ -52,7 +52,7 @@
 		"workerd": "1.20250508.0",
 		"ws": "catalog:default",
 		"youch": "3.3.4",
-		"zod": "3.22.3"
+		"zod": "3.25.76"
 	},
 	"devDependencies": {
 		"@ava/typescript": "^4.1.0",
